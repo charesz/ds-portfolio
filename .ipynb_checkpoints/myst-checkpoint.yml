@@ -18,7 +18,7 @@ project:
     - file: index.md
       title: "Home"
 
-    - title: "🧠 Deep Learning Fundamentals"
+    - title: "Deep Learning Fundamentals"
       children:
         - file: Forward Pass.ipynb
           title: "Forward Pass"
@@ -29,13 +29,16 @@ project:
         - file: Tensor Basics.ipynb
           title: "Tensor Basics"
 
-    - title: "🔥 PyTorch"
+    - title: "PyTorch"
       children:
         - file: Linear Regression PyTorch.ipynb
           title: "Linear Regression with PyTorch"
 
         - file: PyTorch CNN Architecture.ipynb
           title: "CNN Architecture — PyTorch"
+
+        - file: Image Classification.ipynb
+          title: "Image Classification"
 
 site:
   template: book-theme

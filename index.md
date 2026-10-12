@@ -16,10 +16,10 @@ site:
 
 <div class="profile-name">Mariane Charisse Cañete</div>
 
-<div class="profile-subtitle">Data Science Student · Researcher · Lifelong Learner</div>
+<div class="profile-subtitle">Data Science Student | Researcher</div>
 
 <blockquote>
-Turning data, curiosity, and code into meaningful solutions.
+ Applying data science, statistical analysis, and machine learning to address real-world problems.
 </blockquote>
 
 </div>
@@ -27,29 +27,31 @@ Turning data, curiosity, and code into meaningful solutions.
 
 ## About
 
-### I acknowledge the presence of a sentient being. Be not afraid. I bring thee *hello* 🧚‍♀️
+I am Mariane Charisse Cañete, a fourth-year Data Science student at the University of Science and Technology of Southern Philippines (USTP). My academic interests include data analysis, statistical modeling, machine learning, and artificial intelligence, with an emphasis on applying computational methods to practical and research-oriented problems.
 
-I am Mariane Charisse Cañete, a fourth-year Data Science student at the University of Science and Technology of Southern Philippines (USTP). I am fascinated by the hidden patterns woven into data, the quiet logic of statistics, and the curious workings of machine learning. I wander these realms in search of meaning, seeking to turn numbers and algorithms into something useful for the peculiar problems of the real world.
+Through coursework, laboratory exercises, and research projects, I continue to develop my skills in data processing, exploratory data analysis, visualization, predictive modeling, and model evaluation. I value a systematic approach to problem-solving, evidence-based interpretation, and the responsible application of data-driven methods.
 
----
-
-## 🧭 What I'm Exploring
-
-### 📊 Data Science
-
-Data analysis, visualization, statistics, and exploratory data analysis.
-
-### 🤖 Machine Learning
-
-Predictive modeling, model evaluation, and data-driven decision making.
-
-### 🧠 Artificial Intelligence
-
-Deep learning, neural networks, and intelligent systems.
+This portfolio documents my academic development, technical competencies, and selected projects in Data Science.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Areas of Interest
+
+### Data Analysis and Statistics
+
+Exploratory data analysis, statistical methods, data cleaning, visualization, and interpretation of quantitative information.
+
+### Machine Learning
+
+Predictive modeling, supervised learning, model evaluation, and the application of machine learning techniques to structured datasets.
+
+### Artificial Intelligence and Deep Learning
+
+Neural networks, deep learning architectures, and intelligent systems for selected analytical and research applications.
+
+---
+
+## Technical Skills
 
 | Area | Tools |
 |---|---|
@@ -62,15 +64,15 @@ Deep learning, neural networks, and intelligent systems.
 
 ---
 
-## 📚 My Learning Journey
+## Academic Work and Projects
 
-A record of my wandering through the realms of Data Science—from coursework and laboratory adventures to research, experiments, and projects where numbers are asked to reveal what they know.
+This portfolio presents selected outputs from my Data Science coursework, laboratory activities, and research projects. Each entry demonstrates the application of relevant concepts, tools, and methodologies to specific analytical tasks.
 
-This portfolio gathers the things I have learned, built, analyzed, and occasionally wrestled into submission along the way.
+The projects may include data preparation, exploratory analysis, statistical investigation, model development, performance evaluation, and interpretation of results. They reflect my progress in translating theoretical knowledge into practical implementation.
 
 ---
 
-## 🌸 A Work in Progress
+## A Work in Progress
 
 This portfolio is continuously evolving alongside my Data Science journey.
 
